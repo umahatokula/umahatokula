@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Umaha Tokula</h1>
+<h1 align="center">Hi 👋, I'm Umaha</h1>
 <h3 align="center">A talented Blockchain & Full Stack Developer</h3>
 
 - 📫 How to reach me **umahatokula@gmail.com**
