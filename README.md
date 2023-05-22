@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umaha</h1>
 <h3 align="center">A talented Blockchain & Full Stack Developer</h3>
 
-- 📫 How to reach me **umahatokula@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/umahatokula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umahatokula" height="30" width="40" /></a>
